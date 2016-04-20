@@ -1,0 +1,97 @@
+
+.list th,td{
+    border:2px solid #999;
+    background-color: lightblue;
+    margin: 1px auto;
+    font-family: sans-serif;
+    
+}
+
+.add {
+    float:inherit;
+    color: black;
+    
+}
+
+h1{
+    text-align: center;
+}
+
+.botaoAdd{
+    font-size: 14px;
+    color: brown;
+    box-sizing: border-box;
+    padding: 8px 15px;
+    text-decoration: none;
+    display: inline-block;
+    
+   
+}
+
+.botaoAdd:hover{
+    background-color: white;
+    
+}
+
+.botaoCancel{
+    font-size: 14px;
+    color: brown;
+    box-sizing: border-box;
+    padding: 8px 15px;
+    text-decoration: none;
+    display: inline-block;
+   
+}
+
+.botaoCancel:hover{
+    background-color: white;
+    
+}
+
+#area{
+    background-color: gray;
+    width: 300px;
+    height: 200px;
+    overflow: scroll;
+    margin:10px auto;
+    
+}
+
+#detail{
+    width: 600px;
+    height: 500px;
+    margin: 10px auto;
+    border: 2px solid blue;
+    background-color: gray;
+    
+}
+.botao{
+    font-size: 14 px;
+    color: black;
+    text-transform: uppercase;
+    display: inline-block;
+    padding: 2px 20px;
+    float: center;
+    font-family:serif;
+    font-family: cursive;
+}
+
+#book{
+    width: 100px;
+    background-color: darkseagreen;
+      
+}
+
+#page {
+    background-color: paleturquoise;
+    width: 600px;
+    margin-top:8px auto;
+    margin: 10px auto;
+    float: center;
+    
+}
+
+
+h2{
+    text-align: center;
+}
